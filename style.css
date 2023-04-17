@@ -59,7 +59,7 @@ ul li a {
    text-align: center;
 }   
 ul li:hover a {
-    border: solid 2px rgb(247, 0, 226); 
-    background-color: rgb(55, 0, 255);
-     color: rgb(26, 223, 8);
+    border: solid 2px rgb(4, 247, 36); 
+    background-color: rgb(218, 28, 243);
+     color: rgb(236, 133, 16);
 }
